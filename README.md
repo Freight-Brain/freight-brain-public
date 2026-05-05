@@ -251,5 +251,9 @@ Active repositories:
 **Victor Caballero**
 Owner — NoxTerra / Lux Xpress
 Douglas, Wyoming
+admin@noxterra.co | 970-413-9775
+
+**Clawdia** — AI Executive
+clawdia@noxterra.co | [clawdia.noxterra.co](https://clawdia.noxterra.co)
 
 Built with [Clawdia](https://clawdia.noxterra.co) — an AI executive embedded in operations.
